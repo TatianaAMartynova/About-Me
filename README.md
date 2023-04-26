@@ -17,6 +17,6 @@ International University of Business and Management (2000-2004)
 Московская государственная академия ветеринарной медицины и биотехнологии имени К.И. Скрябина (2009-2014)
 
 <picture>
-<img alt= "Horse" srs="https://drive.google.com/file/d/1VdUoKO6_ebdURkqKo3_jR86tOvzni0JM/view?usp=share_link">
+<img src="https://imageup.ru/img184/4313358/photo_2023-04-26-152104.jpeg">
 </picture>
 
